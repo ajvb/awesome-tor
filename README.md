@@ -2,7 +2,29 @@
 A curated list of awesome Tor related projects, articles, papers, etc
 
 
-# Tor Project's Projects
+### Contents
+- [Awesome Tor](#awesome-tor)
+    - [The Tor Project]
+        - [Tor Project's Projects]
+    - [Implementation of the Tor Protocol in Other Languages](#implementation-of-the-tor-protocol-in-other-languages)
+    - [Tools](#tools)
+        - [Hidden Service](#hidden-service)
+            - [Running Hidden Services](#running-hidden-services)
+        - [Relay](#relay)
+        - [Using Tor](#using-tor)
+    - [Resources](#resources)
+        - [Conference Talks](#conference-talks)
+        - [Articles](#articles)
+        - [Websites](#websites)
+
+
+
+# The Tor Project
+
+#### [torproject.org](http://torproject.org/)
+#### [blog.torproject.org](https://blog.torproject.org/blog/)
+
+## Tor Project's Projects
 
 This is a listing directly taken from The Tor Project's [Projects table](https://www.torproject.org/getinvolved/volunteer.html.en#projects) on their Volunteer page.
 
@@ -42,8 +64,8 @@ This is a listing directly taken from The Tor Project's [Projects table](https:/
 
 # Implementation of the Tor Protocol in Other Languages
 
-* [haskell-tor](https://github.com/GaloisInc/haskell-tor)
-* [node-Tor](https://github.com/Ayms/node-Tor)
+* [haskell-tor](https://github.com/GaloisInc/haskell-tor) - A Haskell implementation of the Tor protocol.
+* [node-Tor](https://github.com/Ayms/node-Tor) - Javascript implementation of the Tor (or Tor like) anonymizer project (The Onion Router).
 
 # Tools
 
@@ -53,10 +75,6 @@ This is a listing directly taken from The Tor Project's [Projects table](https:/
 
 * [OnionBalance](https://github.com/DonnchaC/onionbalance) - Load-balancing and redundancy for Tor hidden services
 
-### Accessing Hidden Services
-
-* [Tor2web](https://github.com/globaleaks/Tor2web)
-
 ## Relay
 * [tor-relay-bootstrap](https://github.com/micahflee/tor-relay-bootstrap<Paste>) - Script to bootstrap a debian server to be a set-and-forget Tor relay
 * [ansible-relayor](https://github.com/nusenu/ansible-relayor) - An Ansible role for Tor Relay Operators
@@ -65,13 +83,23 @@ This is a listing directly taken from The Tor Project's [Projects table](https:/
 
 ## Using Tor
 
-* [TorChat](https://github.com/prof7bit/TorChat)
+* [TorChat](https://github.com/prof7bit/TorChat) -  Decentralized anonymous instant messenger on top of Tor Hidden Services.
 * [TorChat-Mac](https://github.com/javerous/TorChat-Mac) -  Mac OS X native TorChat client
+* [SecureDrop](https://github.com/freedomofpress/securedrop) - SecureDrop is an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources. It was originally created by the late Aaron Swartz and is currently managed by Freedom of the Press Foundation.
+
 
 # Resources
 
-### Conference Talks
+## Conference Talks
 
+* [State Of The Onion - 2014](https://www.youtube.com/watch?v=fOwYgAS4TXE) - The State of the Onion covers technical, social, economic, political and cultural issues pertaining to anonymity, the Tor Project and the ecosystem surrounding our communities.
+* [Tor: Hidden Services and Deanonymisation - 2014](https://www.youtube.com/watch?v=oZdeRmlj8Gw) - This talk presents the results from what we believe to be one of the largest studies into Tor Hidden Services (The Darknet) to date.
+* [The Tor Network - 2013](https://www.youtube.com/watch?v=CJNxbpbHA-I) - Roger Dingledine and Jacob Appelbaum will discuss contemporary Tor Network issues related to censorship, security, privacy and anonymity online.
+* [How governments have tried to block Tor - 2011](https://www.youtube.com/watch?v=GwMr8Xl7JMQ) - (*Oldy but goody*) Iran blocked Tor handshakes using Deep Packet Inspection (DPI) in January 2011 and September 2011. Bluecoat tested out a Tor handshake filter in Syria in June 2011. China has been harvesting and blocking IP addresses for both public Tor relays and private Tor bridges for years. Roger Dingledine and Jacob Appelbaum will talk about how exactly these governments are doing the blocking, both in terms of what signatures they filter in Tor (and how we've gotten around the blocking in each case), and what technologies they use to deploy the filters -- including the use of Western technology to operate the surveillance and censorship infrastructure in Tunisia (Smartfilter), Syria (Bluecoat), and other countries.
 
-### Articles
+## Articles
 * [Scaling Tor hidden services](https://www.benthamsgaze.org/2015/11/17/scaling-tor-hidden-services)
+
+## Websites
+* [torproject.org](http://torproject.org/)
+* [blog.torproject.org](https://blog.torproject.org/blog/)
