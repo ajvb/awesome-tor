@@ -74,6 +74,7 @@ This is a listing directly taken from The Tor Project's [Projects table](https:/
 ### Running Hidden Services
 
 * [OnionBalance](https://github.com/DonnchaC/onionbalance) - Load-balancing and redundancy for Tor hidden services
+* [Stormy](https://github.com/glamrock/stormy) -  Easy creation of Tor Hidden Services (Stormy is currently under heavy development, and only usable by developers.)
 
 ## Relay
 * [tor-relay-bootstrap](https://github.com/micahflee/tor-relay-bootstrap<Paste>) - Script to bootstrap a debian server to be a set-and-forget Tor relay
