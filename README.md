@@ -16,6 +16,7 @@ A curated list of awesome Tor related projects, articles, papers, etc
         - [Conference Talks](#conference-talks)
         - [Articles](#articles)
         - [Websites](#websites)
+    - [Donate](#donate)
 
 
 
@@ -104,3 +105,7 @@ This is a listing directly taken from The Tor Project's [Projects table](https:/
 ## Websites
 * [torproject.org](http://torproject.org/)
 * [blog.torproject.org](https://blog.torproject.org/blog/)
+
+# Donate
+
+* [Oniontip](https://oniontip.com) - Donate to volunteers who are running Tor relays using Bitcoin.
