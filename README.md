@@ -4,8 +4,8 @@ A curated list of awesome Tor related projects, articles, papers, etc
 
 ### Contents
 - [Awesome Tor](#awesome-tor)
-    - [The Tor Project]
-        - [Tor Project's Projects]
+    - [The Tor Project](#the-tor-project)
+        - [Tor Project's Projects](#tor-projects-projects)
     - [Implementation of the Tor Protocol in Other Languages](#implementation-of-the-tor-protocol-in-other-languages)
     - [Tools](#tools)
         - [Hidden Service](#hidden-service)
