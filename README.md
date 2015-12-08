@@ -88,6 +88,7 @@ This is a listing directly taken from The Tor Project's [Projects table](https:/
 * [TorChat](https://github.com/prof7bit/TorChat) -  Decentralized anonymous instant messenger on top of Tor Hidden Services.
 * [TorChat-Mac](https://github.com/javerous/TorChat-Mac) -  Mac OS X native TorChat client
 * [SecureDrop](https://github.com/freedomofpress/securedrop) - SecureDrop is an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources. It was originally created by the late Aaron Swartz and is currently managed by Freedom of the Press Foundation.
+* [OnionShare](https://onionshare.org/) - OnionShare is an open source tool that lets you securely and anonymously share a file of any size.
 
 
 # Resources
