@@ -15,6 +15,7 @@
 - [Funding](#funding)
 - [Messaging](#messaging)
 - [Onion service tools](#onion-service-tools)
+- [Offensive tools](#offensive-tools)
 - [Operating System distributions](#operating-system-distributions)
 - [Pluggable transports](#pluggable-transports)
 - [Relay operator tools](#relay-operator-tools)
@@ -74,6 +75,11 @@
 - [OnionBalance](https://github.com/DonnchaC/onionbalance) - Load-balancing and redundancy for Tor hidden services.
 - [Stormy](https://github.com/glamrock/stormy) - Easy creation of Tor Onion services ("Location-Hidden Services"), currently under heavy development.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
+
+# Offensive tools
+
+- [dos-over-tor](https://github.com/zacscott/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
+- [oregano](https://github.com/nametoolong/oregano) - Python module that runs as a machine-in-the-middle (MITM) accepting Tor client requests.
 
 # Operating System distributions
 
