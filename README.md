@@ -27,11 +27,13 @@
 
 # Android-based tools
 
-- [Orbot](https://www.torproject.org/getinvolved/volunteer.html.en#project-orbot) - Provides Tor on the Android platform. The project is under active development, updates to latest Tor releases, and working to stay up to date with all changes in Android and mobile threats.
+- [Orbot](https://guardianproject.info/apps/orbot/) - Provides Tor on the Android platform.
+- [Orfox](https://guardianproject.info/apps/orfox/) - Provides Tor Browser on the Android platform.
 
 # Articles
 
 - [Anonbib](https://www.torproject.org/getinvolved/volunteer.html.en#project-anonbib) - List of important papers in the field of anonymity. It's also a set of scripts to generate the website from Latex (bibtex). If we're missing any important papers, please let us know!
+- [Connecting to an authenticated Onion service](https://github.com/AnarchoTechNYC/meta/wiki/Connecting-to-an-authenticated-Onion-service) - Guided procedure written for laypeople describing how to configure a Tor client to connect to authenticated Onion services.
 - [Scaling Tor hidden services](https://www.benthamsgaze.org/2015/11/17/scaling-tor-hidden-services) - Article on scaling Onion services.
 
 # Bridge tools
@@ -40,10 +42,10 @@
 
 # Conference presentations and talks
 
-- [How Tor Users Got Caught - Defcon 22](https://www.youtube.com/watch?v=7G1LjQSYM5Q) -  4 examples of people who have used Tor for illegal activities and how they were caught. Multiple de-anonymization attacks are shown at the end of the video.
-- [How governments have tried to block Tor - 2011](https://www.youtube.com/watch?v=GwMr8Xl7JMQ) - (*Oldy but goody*) Iran blocked Tor handshakes using Deep Packet Inspection (DPI) in January 2011 and September 2011. Bluecoat tested out a Tor handshake filter in Syria in June 2011. China has been harvesting and blocking IP addresses for both public Tor relays and private Tor bridges for years. Roger Dingledine and Jacob Appelbaum will talk about how exactly these governments are doing the blocking, both in terms of what signatures they filter in Tor (and how we've gotten around the blocking in each case), and what technologies they use to deploy the filters -- including the use of Western technology to operate the surveillance and censorship infrastructure in Tunisia (Smartfilter), Syria (Bluecoat), and other countries.
+- [How Tor Users Got Caught - Defcon 22](https://www.youtube.com/watch?v=7G1LjQSYM5Q) - 4 examples of people who have used Tor for illegal activities and how they were caught. Multiple de-anonymization attacks are shown at the end of the video.
+- [How governments have tried to block Tor - 2011](https://www.youtube.com/watch?v=GwMr8Xl7JMQ) - Iran blocked Tor handshakes using Deep Packet Inspection (DPI) in January 2011 and September 2011, an oldy but goody.
 - [State Of The Onion - 2014](https://www.youtube.com/watch?v=fOwYgAS4TXE) - The State of the Onion covers technical, social, economic, political and cultural issues pertaining to anonymity, the Tor Project and the ecosystem surrounding our communities.
-- [The Tor Network - 2013](https://www.youtube.com/watch?v=CJNxbpbHA-I) - Roger Dingledine and Jacob Appelbaum will discuss contemporary Tor Network issues related to censorship, security, privacy and anonymity online.
+- [The Tor Network - 2013](https://www.youtube.com/watch?v=CJNxbpbHA-I) - Roger Dingledine and Jacob Appelbaum discuss contemporary Tor Network issues related to censorship, security, privacy and anonymity online.
 - [Tor: Hidden Services and Deanonymisation - 2014](https://www.youtube.com/watch?v=oZdeRmlj8Gw) - This talk presents the results from what we believe to be one of the largest studies into Tor Hidden Services (The Darknet) to date.
 
 # End-user tools
@@ -67,7 +69,7 @@
 
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums over various transports, including Bluetooth, clearnet Wi-Fi, or the Tor network.
 - [Ricochet](https://ricochet.im/) - Jabber-based client that creates an Onion service used to rendezvous with your contacts without revealing your location or IP address.
-- [TorChat-Mac](https://github.com/javerous/TorChat-Mac) -  Mac OS X native TorChat client.
+- [TorChat-Mac](https://github.com/javerous/TorChat-Mac) - Mac OS X native TorChat client.
 - [TorChat](https://github.com/prof7bit/TorChat) - Decentralized anonymous instant messenger on top of Tor Hidden Services.
 
 # Onion service tools
@@ -95,14 +97,14 @@
 # Relay operator tools
 
 - [Anonymizing Relay Monitor (Arm)](https://www.torproject.org/getinvolved/volunteer.html.en#project-arm) - `top`-like terminal status monitor for Tor, intended for command-line aficionados, SSH connections, and anyone with a TTY terminal.
-- [Weather](https://www.torproject.org/getinvolved/volunteer.html.en#project-weather) - Provides automatic notification to subscribed relay operators when their relay's unreachable
+- [Weather](https://www.torproject.org/getinvolved/volunteer.html.en#project-weather) - Provides automatic notification to subscribed relay operators when their relay's unreachable.
 - [ansible-relayor](https://github.com/nusenu/ansible-relayor) - An Ansible role for Tor Relay Operators.
 - [tor-relay-bootstrap](https://github.com/micahflee/tor-relay-bootstrap) - Script to bootstrap a Debian server to be a set-and-forget Tor relay.
-- [tor_box](https://github.com/CMoncur/tor_box) - An all-inclusive Tor configuration for Raspberry Pi, serves as both a relay and personal Tor network
+- [tor_box](https://github.com/CMoncur/tor_box) - An all-inclusive Tor configuration for Raspberry Pi, serves as both a relay and personal Tor network.
 
 # Tor server hardening tools
 
-- [Tlsdate](https://www.torproject.org/getinvolved/volunteer.html.en#project-tlsdate) - Secure parasitic rdate replacement sets the local clock by securely connecting with TLS to remote servers and extracting the remote time out of the secure handshake.
+- [Tlsdate](https://www.torproject.org/getinvolved/volunteer.html.en#project-tlsdate) - Secure parasitic rdate replacement maintained by the Tor Project that sets the local clock by securely connecting with TLS to remote servers and extracting the remote time out of the secure handshake.
 
 # Tor controller interfaces
 
@@ -113,7 +115,8 @@
 
 # Web browser-based tools
 
-- [HTTPS Everywhere](https://www.torproject.org/getinvolved/volunteer.html.en#project-httpseverywhere) - Firefox and Chrome extension that automatically switches to HTTPS connections with many major websites if those are available.
+- [HTTPS Everywhere](https://www.torproject.org/getinvolved/volunteer.html.en#project-httpseverywhere) - Firefox and Chrome extension that automatically switches to HTTPS connections with many major websites if those are available that ships in Tor Browser.
+- [NoScript](https://noscript.net/) - Javascript execution blocking Firefox extension that ships in Tor Browser.
 - [Tor Browser](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbrowser) - Easy-to-use, portable package of Tor, HTTPS-Everywhere, NoScript, TorLauncher, Torbutton, and a Firefox fork, all preconfigured to work together out of the box.
 
 # Development and research tools
