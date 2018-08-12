@@ -115,7 +115,7 @@
 
 # Web browser-based tools
 
-- [HTTPS Everywhere](https://www.torproject.org/getinvolved/volunteer.html.en#project-httpseverywhere) - Firefox and Chrome extension that automatically switches to HTTPS connections with many major websites if those are available that ships in Tor Browser.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Firefox and Chrome extension that automatically switches to HTTPS connections with many major websites if those are available that ships in Tor Browser.
 - [NoScript](https://noscript.net/) - Javascript execution blocking Firefox extension that ships in Tor Browser.
 - [Tor Browser](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbrowser) - Easy-to-use, portable package of Tor, HTTPS-Everywhere, NoScript, TorLauncher, Torbutton, and a Firefox fork, all preconfigured to work together out of the box.
 
