@@ -44,22 +44,21 @@
 
 - [How Tor Users Got Caught - Defcon 22](https://www.youtube.com/watch?v=7G1LjQSYM5Q) - 4 examples of people who have used Tor for illegal activities and how they were caught. Multiple de-anonymization attacks are shown at the end of the video.
 - [How governments have tried to block Tor - 2011](https://www.youtube.com/watch?v=GwMr8Xl7JMQ) - Iran blocked Tor handshakes using Deep Packet Inspection (DPI) in January 2011 and September 2011, an oldy but goody.
-- [State Of The Onion - 2014](https://www.youtube.com/watch?v=fOwYgAS4TXE) - The State of the Onion covers technical, social, economic, political and cultural issues pertaining to anonymity, the Tor Project and the ecosystem surrounding our communities.
+- [State Of The Onion - 2014](https://www.youtube.com/watch?v=fOwYgAS4TXE) - Covers technical, social, economic, political and cultural issues pertaining to anonymity, the Tor Project and the ecosystem surrounding our communities.
 - [The Tor Network - 2013](https://www.youtube.com/watch?v=CJNxbpbHA-I) - Roger Dingledine and Jacob Appelbaum discuss contemporary Tor Network issues related to censorship, security, privacy and anonymity online.
 - [Tor: Hidden Services and Deanonymisation - 2014](https://www.youtube.com/watch?v=oZdeRmlj8Gw) - This talk presents the results from what we believe to be one of the largest studies into Tor Hidden Services (The Darknet) to date.
 
 # End-user tools
 
 - [GetTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-gettor) - E-mail autoresponder providing Tor's packages over SMTP. This has been relatively unchanged for quite a while.
-- [Globe](https://www.torproject.org/getinvolved/volunteer.html.en#project-globe) - Globe is a web application that allows you to search for Tor relays and bridges, providing a detailed overview of properties and configurations of a relay or bridge.
 - [Ooni Probe](https://www.torproject.org/getinvolved/volunteer.html.en#project-ooni) - Censorship scanner, checking your local connection for blocked or modified content.
 - [Tor2web](https://www.torproject.org/getinvolved/volunteer.html.en#project-tor2web) - Allows Internet users to browse websites running in Tor hidden services. It trades user anonymity for usability by allowing anonymous content to be distributed to non-anonymous users.
-- [TorBirdy](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbirdy) - TorBirdy is Torbutton for Thunderbird and related Mozilla mail clients.
+- [TorBirdy](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbirdy) - Torbutton for Thunderbird and related Mozilla mail clients.
 - [TorCheck](https://www.torproject.org/getinvolved/volunteer.html.en#project-torcheck) - Site for determining if the visitor is using Tor or not.
 
 # File sharing
 
-- [OnionShare](https://onionshare.org/) - OnionShare is an open source tool that lets you securely and anonymously share a file of any size.
+- [OnionShare](https://onionshare.org/) - Open source tool that lets you securely and anonymously share a file of any size.
 
 # Funding
 
@@ -121,18 +120,18 @@
 
 # Development and research tools
 
-- [Atlas](https://www.torproject.org/getinvolved/volunteer.html.en#project-atlas) - Atlas is a web application to discover Tor relays and bridges. It provides useful information on how relays are configured along with graphics about their past usage.
 - [Chutney](https://www.torproject.org/getinvolved/volunteer.html.en#project-chutney) - Integration test suite that spawns a local tor network, checking the interactions of its components.
-- [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Compass is a web and command line application that filters and aggregates the Tor relays based on various attributes.
-- [DocTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-doctor) - DocTor is a notification service that monitors newly published descriptor information for issues. This is primarily a service to help the tor directory authority operators, but it also checks for a handful of other issues like sybil attacks.
+- [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Web and command line application that filters and aggregates the Tor relays based on various attributes.
+- [DocTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-doctor) - Notification service that monitors newly published descriptor information for issues. This is primarily a service to help the tor directory authority operators, but it also checks for a handful of other issues like sybil attacks.
 - [ExitMap](https://www.torproject.org/getinvolved/volunteer.html.en#project-exitmap) - Scanner for the Tor network by Philipp Winter to detect malicious and misconfigured exits.
 - [Metrics](https://www.torproject.org/getinvolved/volunteer.html.en#project-metrics) - Processing and analytics of consensus data, provided to users via the metrics portal. This has been under active development for several years by Karsten Loesing.
 - [OnionScan](https://onionscan.org/) - Help operators of Onion services find and fix operational security issues with their location-hidden services.
-- [Onionoo](https://www.torproject.org/getinvolved/volunteer.html.en#project-onionoo) - Onionoo is a JSON based protocol to learn information about currently running Tor relays and bridges.
-- [Shadow](https://www.torproject.org/getinvolved/volunteer.html.en#project-shadow) - Shadow is a discrete-event network simulator that runs the real Tor software as a plug-in. Shadow is open-source software that enables accurate, efficient, controlled, and repeatable Tor experimentation.
-- [TorBEL](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbel) - The Tor Bulk Exitlist provides a method of identifying if IPs belong to exit nodes or not. This is a replacement for TorDNSEL which is a stable (though unmaintained) Haskell application for this purpose. The initial version of TorBEL was started in GSOC 2010 but since then the project has been inactive.
+- [Onionoo](https://www.torproject.org/getinvolved/volunteer.html.en#project-onionoo) - JSON based protocol to learn information about currently running Tor relays and bridges.
+- [Relay Search ("Atlas")](https://metrics.torproject.org/rs.html) - Web application to discover Tor relays and bridges, providing useful information on how relays are configured along with graphics about their past usage, formerly "Atlas." ([Source code](https://gitweb.torproject.org/atlas.git))
+- [Shadow](https://www.torproject.org/getinvolved/volunteer.html.en#project-shadow) - Discrete-event network simulator that runs the real Tor software as a plug-in. Shadow is open-source software that enables accurate, efficient, controlled, and repeatable Tor experimentation.
+- [Tor Bulk Exitlist (TorBEL)](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbel) - Provides a method of identifying if IPs belong to exit nodes or not. This is a replacement for TorDNSEL which is a stable (though unmaintained) Haskell application for this purpose. The initial version of TorBEL was started in GSOC 2010 but since then the project has been inactive.
 - [TorFlow](https://www.torproject.org/getinvolved/volunteer.html.en#project-torflow) - Library and collection of services for actively monitoring the Tor network. These include the Bandwidth Scanners (measuring throughput of relays) and SoaT (scans for malicious or misconfigured exit nodes).
-- [TorPS](https://www.torproject.org/getinvolved/volunteer.html.en#project-torps) - The Tor Path Simulator (TorPS) is a tool for efficiently simulating path selection in Tor. It chooses circuits and assigns user streams to those circuits in the same way that Tor does. TorPS is fast enough to perform thousands of simulations over periods of months.
+- [Tor Path Simulator (TorPS)](https://www.torproject.org/getinvolved/volunteer.html.en#project-torps) - Tool for efficiently simulating path selection in Tor. It chooses circuits and assigns user streams to those circuits in the same way that Tor does. TorPS is fast enough to perform thousands of simulations over periods of months.
 
 # Tor protocol implementations
 
@@ -146,7 +145,7 @@
 # Whistleblowing
 
 - [GlobaLeaks](https://www.globaleaks.org/) - Free software intended to enable secure and anonymous whistleblowing initiatives.
-- [SecureDrop](https://github.com/freedomofpress/securedrop) - SecureDrop is an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+- [SecureDrop](https://github.com/freedomofpress/securedrop) - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 
 # License
 
