@@ -108,7 +108,7 @@
 
 # Tor controller interfaces
 
-- [Bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers
+- [Bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers.
 - [PHP TorControl](https://github.com/dunglas/php-torcontrol) - PHP library to control a Tor server.
 - [Stem](https://www.torproject.org/getinvolved/volunteer.html.en#project-stem) - TorProject's official Python controller library for scripts and controller applications using Tor.
 - [tor.rb](https://github.com/dryruby/tor.rb) - Ruby library for interacting with the Tor anonymity network.
