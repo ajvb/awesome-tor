@@ -83,6 +83,7 @@
 
 - [dos-over-tor](https://github.com/zacscott/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
 - [oregano](https://github.com/nametoolong/oregano) - Python module that runs as a machine-in-the-middle (MITM) accepting Tor client requests.
+- [ToRat](https://github.com/lu4p/ToRat) - A crossplatform remote administration tool written in Go using Tor as a transport mechanism.
 
 # Operating System distributions
 
