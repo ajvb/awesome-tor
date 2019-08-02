@@ -30,6 +30,11 @@
 - [Orbot](https://guardianproject.info/apps/orbot/) - Provides Tor on the Android platform.
 - [Orfox](https://guardianproject.info/apps/orfox/) - Provides Tor Browser on the Android platform.
 
+# Apple iOS-based tools
+
+- [Tor.framework](https://github.com/iCepa/Tor.framework) - The easiest way to embed Tor in your iOS application.
+- [iCepa](https://github.com/iCepa/iCepa) - Apple iOS system-wide VPN based Tor client.
+
 # Articles
 
 - [Anonbib](https://www.torproject.org/getinvolved/volunteer.html.en#project-anonbib) - List of important papers in the field of anonymity. It's also a set of scripts to generate the website from Latex (bibtex). If we're missing any important papers, please let us know!
@@ -146,6 +151,7 @@
 
 - [tor_ssh.sh](https://gitlab.com/grownetics/devops/blob/master/tor_ssh.sh) - One command to enable SSH access via Tor to any server. 
 - [Torsocks](https://www.torproject.org/getinvolved/volunteer.html.en#project-torsocks) - Utility for adapting other applications to work with Tor.
+- [tun2tor](https://github.com/iCepa/tun2tor) - Rust library to provide a virtual `utun` (userspace tunnel) interface to Tor.
 
 # Whistleblowing
 
