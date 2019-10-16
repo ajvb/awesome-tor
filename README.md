@@ -71,6 +71,7 @@
 - [Tor Bulk Exitlist (TorBEL)](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbel) - Provides a method of identifying if IPs belong to exit nodes or not. This is a replacement for TorDNSEL which is a stable (though unmaintained) Haskell application for this purpose. The initial version of TorBEL was started in GSOC 2010 but since then the project has been inactive.
 - [TorFlow](https://www.torproject.org/getinvolved/volunteer.html.en#project-torflow) - Library and collection of services for actively monitoring the Tor network. These include the Bandwidth Scanners (measuring throughput of relays) and SoaT (scans for malicious or misconfigured exit nodes).
 - [Tor Path Simulator (TorPS)](https://www.torproject.org/getinvolved/volunteer.html.en#project-torps) - Tool for efficiently simulating path selection in Tor. It chooses circuits and assigns user streams to those circuits in the same way that Tor does. TorPS is fast enough to perform thousands of simulations over periods of months.
+- [TorBot](https://github.com/DedSecInside/TorBot) - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
 
 # End-user tools
 
