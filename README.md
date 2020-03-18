@@ -100,7 +100,7 @@
 # Offensive tools
 
 - [ToRat](https://github.com/lu4p/ToRat) - Cross-platform remote administration tool written in Go using Tor as a transport mechanism.
-- [dos-over-tor](https://github.com/zacscott/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
+- [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
 - [oregano](https://github.com/nametoolong/oregano) - Python module that runs as a machine-in-the-middle (MITM) accepting Tor client requests.
 
 # Onion service tools
