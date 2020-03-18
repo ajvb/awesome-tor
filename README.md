@@ -140,6 +140,7 @@
 # Tor server hardening tools
 
 - [Tlsdate](https://www.torproject.org/getinvolved/volunteer.html.en#project-tlsdate) - Secure parasitic rdate replacement maintained by the Tor Project that sets the local clock by securely connecting with TLS to remote servers and extracting the remote time out of the secure handshake.
+- [onion-grater](https://github.com/Whonix/onion-grater) - Whitelisting filter for dangerous Tor control protocol commands.
 
 # Tunneling tools
 
