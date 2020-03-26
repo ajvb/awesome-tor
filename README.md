@@ -147,6 +147,7 @@
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
 - [tor_ssh.sh](https://gitlab.com/grownetics/devops/blob/master/tor_ssh.sh) - One command to enable SSH access via Tor to any server. 
 - [Torsocks](https://www.torproject.org/getinvolved/volunteer.html.en#project-torsocks) - Utility for adapting other applications to work with Tor.
+- [Tortilla](https://www.crowdstrike.com/resources/community-tools/tortilla-tool/) - Open source tool that allows users of Windows OS devices to securely, anonymously, and transparently route all TCP/IP and DNS traffic through Tor.
 - [tun2tor](https://github.com/iCepa/tun2tor) - Rust library to provide a virtual `utun` (userspace tunnel) interface to Tor.
 
 # Web browser-based tools
