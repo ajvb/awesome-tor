@@ -85,6 +85,7 @@
 # File sharing
 
 - [OnionShare](https://onionshare.org/) - Open source tool that lets you securely and anonymously share a file of any size.
+- [ZeroNet](https://zeronet.io/) - Decentralized Web site and Web application platform based on the BitTorrent protocol with Bitcoin-like blockchain that has built-in support for anonymization through Tor.
 
 # Funding
 
