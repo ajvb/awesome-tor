@@ -32,6 +32,7 @@
 
 - [Orbot](https://guardianproject.info/apps/orbot/) - Provides Tor on the Android platform.
 - [Orfox](https://guardianproject.info/apps/orfox/) - Provides Tor Browser on the Android platform.
+- [Tor Onion Proxy Library](https://github.com/thaliproject/Tor_Onion_Proxy_Library) - Provides a JAR and an AAR for embedding a Tor Onion service proxy into a Java or Android program.
 
 # Apple iOS-based tools
 
