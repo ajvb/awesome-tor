@@ -77,11 +77,12 @@
 # End-user tools
 
 - [GetTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-gettor) - E-mail autoresponder providing Tor's packages over SMTP. This has been relatively unchanged for quite a while.
-- [multitor](https://github.com/trimstray/multitor) - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
 - [Ooni Probe](https://www.torproject.org/getinvolved/volunteer.html.en#project-ooni) - Censorship scanner, checking your local connection for blocked or modified content.
+- [Tor Controller (for Kubernetes)](https://github.com/kragniz/tor-controller) - Expose applications deployed in Kubernetes clusters via Tor Onion services.
 - [Tor2web](https://www.torproject.org/getinvolved/volunteer.html.en#project-tor2web) - Allows Internet users to browse websites running in Tor hidden services. It trades user anonymity for usability by allowing anonymous content to be distributed to non-anonymous users.
 - [TorBirdy](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbirdy) - Torbutton for Thunderbird and related Mozilla mail clients.
 - [TorCheck](https://www.torproject.org/getinvolved/volunteer.html.en#project-torcheck) - Site for determining if the visitor is using Tor or not.
+- [multitor](https://github.com/trimstray/multitor) - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
 
 # File sharing
 
