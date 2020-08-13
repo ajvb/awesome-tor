@@ -123,6 +123,8 @@
 
 - [Flash Proxy](https://www.torproject.org/getinvolved/volunteer.html.en#project-flash-proxy) - Pluggable transport using proxies running in Web browsers to defeat address-based blocking.
 - [Obfsproxy](https://www.torproject.org/getinvolved/volunteer.html.en#project-obfsproxy) - Obfuscating proxy that shapes Tor traffic, making it harder for censors to detect and block Tor, with implementations in C and Python.
+- [ScrambleSuit](https://www.cs.kau.se/philwint/scramblesuit/) - Python module for Obfsproxy suitable for either Tor, VPN, SSH, or any other application that supports SOCKS.
+- [Stegotorus](https://sri-csl.github.io/stegotorus/) - Masks traffic from a Tor client to the entry point into the Tor network such that it looks like ordinary HTML traffic.
 
 # Relay operator tools
 
