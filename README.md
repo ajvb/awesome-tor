@@ -112,6 +112,7 @@
 - [OnionBalance](https://github.com/DonnchaC/onionbalance) - Load-balancing and redundancy for Tor hidden services.
 - [Stormy](https://github.com/glamrock/stormy) - Easy creation of Tor Onion services ("Location-Hidden Services"), currently under heavy development.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
+- [goldy/tor-hidden-service](https://hub.docker.com/r/goldy/tor-hidden-service) - Docker container capable of providing multiple simultaneous Onion services in either Version 2 or Version 3 format, along with added support for Vanguards.
 
 # Operating System distributions
 
