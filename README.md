@@ -100,6 +100,7 @@
 - [Ricochet](https://ricochet.im/) - Jabber-based client that creates an Onion service used to rendezvous with your contacts without revealing your location or IP address.
 - [TorChat-Mac](https://github.com/javerous/TorChat-Mac) - Mac OS X native TorChat client.
 - [TorChat](https://github.com/prof7bit/TorChat) - Decentralized anonymous instant messenger on top of Tor Hidden Services.
+- [Tinfoil Chat](https://github.com/maqp/tfc) - An onion routed, e2ee, and endpoint secure messaging system. It is unique as it uses a free hardware design of a data diode, to prevent remote key exfiltration, making it suitable for individuals with a complex threat model.
 
 # Offensive tools
 
