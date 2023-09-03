@@ -84,6 +84,7 @@
 - [TorBirdy](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbirdy) - Torbutton for Thunderbird and related Mozilla mail clients.
 - [TorCheck](https://www.torproject.org/getinvolved/volunteer.html.en#project-torcheck) - Site for determining if the visitor is using Tor or not.
 - [multitor](https://github.com/trimstray/multitor) - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
+- [archive.is](https://github.com/wabarc/archive.is) - A CLI tool that easy to access archive.today's Tor Hidden Services.
 
 # File sharing
 
@@ -115,6 +116,7 @@
 - [Stormy](https://github.com/glamrock/stormy) - Easy creation of Tor Onion services ("Location-Hidden Services"), currently under heavy development.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
 - [goldy/tor-hidden-service](https://hub.docker.com/r/goldy/tor-hidden-service) - Docker container capable of providing multiple simultaneous Onion services in either Version 2 or Version 3 format, along with added support for Vanguards.
+- [wayback](https://github.com/wabarc/wayback) - Hosting Tor Hidden Services as portal to using Wayback Machine.
 
 # Operating System distributions
 
