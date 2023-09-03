@@ -84,6 +84,7 @@
 - [TorBirdy](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbirdy) - Torbutton for Thunderbird and related Mozilla mail clients.
 - [TorCheck](https://www.torproject.org/getinvolved/volunteer.html.en#project-torcheck) - Site for determining if the visitor is using Tor or not.
 - [multitor](https://github.com/trimstray/multitor) - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
+- [aria2-onion-downloader](https://github.com/sn0b4ll/aria2-onion-downloader) - Download from .onion-domains more quickly.
 
 # File sharing
 
