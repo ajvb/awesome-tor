@@ -4,6 +4,7 @@
 
 [Tor](https://torproject.org/) is an anonymizing TCP overlay network proxy implemented as a cryptographic mixnet. It is used for protecting the privacy of user communications in a variety of operational environments. Contributions to this list are heartily encouraged. Please see the [contribution guidelines](CONTRIBUTING.md) for details.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Tor network workflow orchestration, automated privacy-focused system management, and multi-agent coordination. MIT licensed.
 # Contents
 
 - [Android-based tools](#android-based-tools)
