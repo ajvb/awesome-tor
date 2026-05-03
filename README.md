@@ -96,6 +96,7 @@
 
 # Messaging
 
+- [balchat](https://github.com/xandru582/balchat) - 1:1 and group messenger that runs entirely over Onion services v3. Pure-Rust embedded Arti (no system Tor needed). End-to-end encryption with MLS (RFC 9420). Untrusted optional relay for offline delivery (sees only ciphertext + pseudonymous queue IDs). Desktop (macOS/Linux/Windows) and Android. Apache-2.0.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums over various transports, including Bluetooth, clearnet Wi-Fi, or the Tor network.
 - [Ricochet](https://ricochet.im/) - Jabber-based client that creates an Onion service used to rendezvous with your contacts without revealing your location or IP address.
 - [TorChat-Mac](https://github.com/javerous/TorChat-Mac) - Mac OS X native TorChat client.
