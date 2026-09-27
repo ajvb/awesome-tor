@@ -181,6 +181,7 @@
 
 - [GlobaLeaks](https://www.globaleaks.org/) - Free software intended to enable secure and anonymous whistleblowing initiatives.
 - [SecureDrop](https://github.com/freedomofpress/securedrop) - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+- [OpenWhistle](https://github.com/openwhistle/OpenWhistle) - Self-hosted internal reporting channel for the EU Whistleblowing Directive and Germany's HinSchG, with an optional onion service and no stored IP addresses.
 
 # License
 
