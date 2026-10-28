@@ -101,6 +101,7 @@
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums over various transports, including Bluetooth, clearnet Wi-Fi, or the Tor network.
 - [Ricochet](https://ricochet.im/) - Jabber-based client that creates an Onion service used to rendezvous with your contacts without revealing your location or IP address.
 - [TorChat](https://github.com/prof7bit/TorChat) - Decentralized anonymous instant messenger on top of Tor Hidden Services.
+- [VaelMail](https://vaelmail.com) - Privacy-first webmail with a native Tor v3 onion service (`http://5gxnpixptykyv5fchr2qidjbrazjewswx77ddrqowpcmwmmgll57daid.onion`), 16-digit account keys, and zero phone verification. Hosted in Sweden.
 
 # Offensive tools
 
