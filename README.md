@@ -164,6 +164,7 @@
 - [Torsocks](https://www.torproject.org/getinvolved/volunteer.html.en#project-torsocks) - Utility for adapting other applications to work with Tor.
 - [Tortilla](https://www.crowdstrike.com/resources/community-tools/tortilla-tool/) - Open source tool that allows users of Windows OS devices to securely, anonymously, and transparently route all TCP/IP and DNS traffic through Tor.
 - [tun2tor](https://github.com/iCepa/tun2tor) - Rust library to provide a virtual `utun` (userspace tunnel) interface to Tor.
+- [TorGrid](https://github.com/localhost-server/TorGrid) - Self-healing multi-circuit Tor proxy and split-tunnel Android VPN connecting 100-1,100 parallel unique Exit IPs behind a single local SOCKS5/HTTP port.
 
 # Web browser-based tools
 
