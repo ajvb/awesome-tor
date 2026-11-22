@@ -9,6 +9,7 @@
 - [Android-based tools](#android-based-tools)
 - [Apple iOS-based tools](#apple-ios-based-tools)
 - [Articles](#articles)
+- [Books and Learning Resources](#books-and-learning-resources)
 - [Bridge tools](#bridge-tools)
 - [Conference presentations and talks](#conference-presentations-and-talks)
 - [Development and research tools](#development-and-research-tools)
@@ -44,6 +45,10 @@
 - [Anonbib](https://www.torproject.org/getinvolved/volunteer.html.en#project-anonbib) - List of important papers in the field of anonymity. It's also a set of scripts to generate the website from Latex (bibtex). If we're missing any important papers, please let us know!
 - [Connecting to an authenticated Onion service](https://github.com/AnarchoTechNYC/meta/wiki/Connecting-to-an-authenticated-Onion-service) - Guided procedure written for laypeople describing how to configure a Tor client to connect to authenticated Onion services.
 - [Scaling Tor hidden services](https://www.benthamsgaze.org/2015/11/17/scaling-tor-hidden-services) - Article on scaling Onion services.
+
+# Books and Learning Resources
+
+- [Onion Routing Anatomy (Anatomia di Tor)](https://github.com/aleff-github/onion-routing-anatomy) - Free, open-source book on Tor protocol internals with 20 reproducible Python/Docker labs on a private Tor network. AI-generated under human direction; includes the Italian reference edition and AI-translated editions in English, Spanish, Russian, and Simplified Chinese (translations not independently reviewed).
 
 # Bridge tools
 
