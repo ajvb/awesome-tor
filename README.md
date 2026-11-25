@@ -64,6 +64,7 @@
 - [DocTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-doctor) - Notification service that monitors newly published descriptor information for issues. This is primarily a service to help the tor directory authority operators, but it also checks for a handful of other issues like sybil attacks.
 - [ExitMap](https://www.torproject.org/getinvolved/volunteer.html.en#project-exitmap) - Scanner for the Tor network by Philipp Winter to detect malicious and misconfigured exits.
 - [Metrics](https://www.torproject.org/getinvolved/volunteer.html.en#project-metrics) - Processing and analytics of consensus data, provided to users via the metrics portal. This has been under active development for several years by Karsten Loesing.
+- [MyIPScan Tor Exit Node Check](https://myipscan.net/tools/tor-exit-node-check) - Web page that checks whether an IP address is in the Tor Project's published exit node list.
 - [OONI Explorer](https://explorer.ooni.org/) - Explore measurements of Internet censorship collected by the Open Observatory of Network Interference.
 - [OnionScan](https://onionscan.org/) - Help operators of Onion services find and fix operational security issues with their location-hidden services.
 - [Onionoo](https://www.torproject.org/getinvolved/volunteer.html.en#project-onionoo) - JSON based protocol to learn information about currently running Tor relays and bridges.
